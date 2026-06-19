@@ -1,0 +1,13 @@
+name = "Cobblemoon Lite"
+author = "AZC Studios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff158e2c1e84d7364bb251b2eb4f19f0c089c51cba6c6e3e146c429b30abb5e4"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"
