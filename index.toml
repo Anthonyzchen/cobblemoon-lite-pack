@@ -358,7 +358,7 @@ hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2eefda6d66febdcfe48067b26fb77f4f9165533df17b2328e70507bc248b595f"
+hash = "1e5121e8082258f1b2f0f3c78fcb404c72ad685ab3dde6347f2455116a04b209"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -3750,7 +3750,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8d46e917bb576887395605055923cc27285bdabdc5e8cd14c49325ddbf506980"
+hash = "845b1117eda08ed5f2958acd103d3f6f26c2b3fa85426804a545a58be1035138"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_apothecary.json"
@@ -4094,6 +4094,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-pokemon-icons.pw.toml"
 hash = "1264a473015f5179806617af3e67d8f692a51167eef5e9ec73f719f048c7e6c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbleverse-riggedmodels.pw.toml"
+hash = "0e7fe90ea6d1006fa00aa98565a569cd6ef85e141aebc25850a4af4b93d912b9"
 metafile = true
 
 [[files]]
