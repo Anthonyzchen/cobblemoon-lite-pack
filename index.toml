@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fb32dcfc6214dd815fb216003c6e6b958d4ae8f15146715daa1e274668d56cfd"
+hash = "e1fdcc351fc3622028e1b67b8f287c53a8d808dfc8de27bc1d7a176ba3bc5cbd"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "8c5ed7b72d8df55eac643ca91894135c26707e157e83dd5322075f158c36c4ab"
+hash = "e28e97fec9bf7224a1cd8a67da19153bef4eb2b72466807bfd7917dc6a8e9726"
 
 [[files]]
 file = "build-high.sh.premigration.bak"
@@ -3644,8 +3644,8 @@ hash = "d97ae2e439bfaee3a54519d07d739246e7b274ff0077a81cb10cb52ed43f5586"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-fabric-1-21-1-1-0-8.pw.toml"
-hash = "6a48a72631d0f00d8ed660f4dd647afdf0a8c71bc23e84071eb206255b9f4579"
+file = "mods/moreculling-fabric-1-21-1-1-0-7.pw.toml"
+hash = "ee43914d9f4db96db096d677daa8cf8fd6b866c64a2a4ea089b20a7a0a801c83"
 metafile = true
 
 [[files]]
