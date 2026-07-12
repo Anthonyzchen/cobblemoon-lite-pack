@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3714023f99454db987366073ae9cc565297e6be07fe9627cd663db08284de2c6"
+hash = "824f1cac021981cc4cf3279bfc4c8a9d91bdda9c407ef86d221f49266b6b3341"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "d75bcbec260c446aec4535866a247661c3d358bc257c26411f5fe63c51873e7d"
+hash = "cde9239e8cf5a6e65e5317acb32648b15f731a4978fe591ebdfaef9bfbf32a88"
 
 [[files]]
 file = "build-high.sh.premigration.bak"
@@ -3194,8 +3194,8 @@ hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerfrontier-1-0-0.pw.toml"
-hash = "d8c785bcc053c21d1feedcd55229eca31ade455cf5387567bfbca6a22510700b"
+file = "mods/azctrainerfrontier-1-0-1.pw.toml"
+hash = "b3a5c1cb2f3def9dcd6647c2d99da526541c58723226f091896c994d8945f922"
 metafile = true
 
 [[files]]
